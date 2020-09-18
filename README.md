@@ -1,2 +1,4 @@
 # com11103-listas-c
-Mauricio Martinez Riede
+
+Integrantes del equipo:
+-Mauricio Martinez Riede 176762
