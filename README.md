@@ -1,6 +1,5 @@
 # com11103-listas-c
-
-<<<<<<< HEAD
+Equipo Rojo.
 =======
 Integrantes del equipo:
 -Mauricio Martinez Riede 176762
